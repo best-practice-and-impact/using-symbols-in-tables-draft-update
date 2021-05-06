@@ -1,9 +1,12 @@
 # Using symbols and shorthand in tables 
 ## Introduction
 This documentation provides definitions for harmonised shorthand to be used in: tables, guidance for use, and additional useful information.
-When we refer to shorthand we mean the use of a letter as shorthand for a word or words. The use of symbols such as . : * or † is no longer recommended in tables. This is because these symbols will often fail the legal accessibility guidelines because they can be difficult to see and screen reader software often won’t recognise them. 
-Whenever possible information should be given at the point of need, for example write out the word ‘revised’ rather than using ‘r’. However, we know this is not always feasible in tables of statistics. 
-When using shorthand it is important it is harmonised across government statistical outputs as this can provide many benefits to users of statistics and statistics providers. 
+
+When we refer to shorthand we mean the use of a letter or letters as shorthand for a word or words. The use of symbols such as . : * or † is no longer recommended in tables. This is because these symbols will fail legal accessibility guidelines because they can be difficult to see and screen reader software often won’t recognise them. 
+
+Whenever possible information should be given at the point of need, for example write out the word 'revised' rather than using 'r'. However, we know this is not always feasible in tables of statistics. 
+
+When using shorthand it is important it is harmonised across government statistical outputs as this can provide many [benefits](#Benefits-of-harmonising-shorthand). 
 
 ## The harmonised shorthand and when to use it
 
@@ -66,7 +69,7 @@ We are researching how empty cells affect accessibility if a table is marked up 
 When you need to reference a specific cell in a row or column we recommend you add a notes column to your table on the right and put note markers in here. More information on this can be found in our [Releasing statistics in spreadsheets](https://github.com/best-practice-and-impact/spreadsheet-accessibility/blob/main/interim-draft.md) guidance. 
 
 
-## Benefits to data users of harmonising symbols 
+## Benefits of harmonising shorthand
 ### Increased understanding 
 If harmonised shorthand is used then no matter what data users’ access, the symbols and their meanings will be consistent and familiar.
 ### Ease of use and comparability 
