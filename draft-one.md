@@ -9,7 +9,7 @@ Whenever possible information should be given at the point of need, for example 
 When using shorthand it is important it is harmonised across government statistical outputs as this can provide many [benefits](#Benefits-of-harmonising-shorthand). 
 
 ## Layout of shorthand
-Whenever words or shorthand are presented in a table they should be in square brackets, for example: ‘[r]’. This aids machine readability and makes it easier to spot shorthand.
+Whenever words or shorthand are presented in a table they should be in square brackets, for example: [r]. If you need to use more than one shorthand marker in the same cell, each should have its own square brackets, for example: [r][e].  This aids machine readability and makes it easier to spot shorthand.
 
 ## The harmonised shorthand and when to use it
 
