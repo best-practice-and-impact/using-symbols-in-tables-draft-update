@@ -8,6 +8,9 @@ Whenever possible information should be given at the point of need, for example 
 
 When using shorthand it is important it is harmonised across government statistical outputs as this can provide many [benefits](#Benefits-of-harmonising-shorthand). 
 
+## Layout of shorthand
+Whenever words or shorthand are presented in a table they should be in square brackets, for example: ‘[r]’. This aids machine readability and makes it easier to spot shorthand.
+
 ## The harmonised shorthand and when to use it
 
 ### b = break in time series
@@ -59,14 +62,10 @@ When we report on statistical significance, we provide an assessment of how like
 #### sss = significant at 0.001 level
 When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase "statistically significant at the 0.001 (or 0.1%) level" indicates that, if chance alone was operating, a result like this would occur less than 0.1 times in 100, or less than 0.1% of the time.
 
-## Layout 
-Whenever words or shorthand are presented in a table they should be in square brackets, for example: ‘[r]’. This aids machine readability and makes it easier to spot shorthand. Shorthand can be put after titles, in column headings, row labels or within empty cells. Avoid putting them in cells with data as this can disrupt usability and machine readability. 
+## Where to put shorthand
+Ideally shorthand should be used after titles, in column headings or row labels. Avoid putting them in empty cells or in cells with data as this can disrupt usability and machine readability. 
 
-Putting them in empty cells can also cause usability issues (for example it makes it difficult to sum a column) but we have to balance this against the legal accessibility guidelines and the usability issues caused by not explaining to a user why a cell is empty. 
-
-We are researching how empty cells affect accessibility if a table is marked up correctly. We will update this guidance when we know more.   
-
-When you need to reference a specific cell in a row or column we recommend you add a notes column to your table on the right and put note markers in here. More information on this can be found in our [Releasing statistics in spreadsheets](https://github.com/best-practice-and-impact/spreadsheet-accessibility/blob/main/interim-draft.md) guidance. 
+If you need to explain why a cell is empty or a specifc data cell needs a piece of information attached to it, we advise you to add a notes column to your table on the right and put shorthand or note markers in here, specifying which cells the shorthand or note is attached to. More information on this can be found in our [Releasing statistics in spreadsheets](https://github.com/best-practice-and-impact/spreadsheet-accessibility/blob/main/interim-draft.md) guidance. 
 
 
 ## Benefits of harmonising shorthand
