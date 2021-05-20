@@ -29,8 +29,9 @@ The particular value yielded by an estimator in a given set of circumstances. Ta
 
 ### f = forecast
 The statistical value is forecasted. It is not an observed value; it is a calculated future value. 
-low = less than half the final digit shown and different from  a real zero 
-For figures that round to zero, so appear as zero in a rounded table, but are not actually zero. For example, international migration statistics published by ONS report to the nearest thousand, so 499 or less would be displayed with the figure ‘0’ and the symbol ‘~’ . Note that “0” should only be used without a symbol when a figure is a true zero.
+
+### low = less than half the final digit shown and different from  a real zero 
+For figures that round to zero, so appear as zero in a rounded table, but are not actually zero. For example, international migration statistics published by ONS report to the nearest thousand, so 499 or less would be displayed with the figure '0' and the word '[low]'. Note that '0' should only be used without a symbol when a figure is a true zero.
 
 ### u = low reliability
 This indicates observations or values for which the user should be aware of the low quality, for example where values of statistical significance have been calculated. The use of the 'u' depends on the context, therefore additional information, e.g. explanations about the applicable reliability limits, should be provided in the notes.
