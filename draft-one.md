@@ -6,74 +6,84 @@ When we refer to shorthand we mean the use of a letter or letters as shorthand f
 
 Whenever possible information should be given at the point of need, for example write out the word 'revised' rather than using 'r'. However, we know this is not always feasible in tables of statistics. 
 
-When using shorthand it is important it is harmonised across government statistical outputs as this can provide many [benefits](#Benefits-of-harmonising-shorthand). 
+When using shorthand it is important it is used consistently across government statistical outputs as this can provide many [benefits](#Benefits-of-harmonising-shorthand). 
 
 ## Layout of shorthand
-Whenever words or shorthand are presented in a table they should be in square brackets, for example: [r]. If you need to use more than one shorthand marker in the same cell, each should have its own square brackets, for example: [r][e].  This aids machine readability and makes it easier to spot shorthand.
+Whenever words or shorthand are presented in a table they should be in square brackets, for example: [r]. If you need to use more than one shorthand marker in the same cell, each should have its own square brackets, for example: [r][e]. This aids machine readability and makes it easier to spot shorthand.
 
 ## The harmonised shorthand and when to use it
 
 ### b = break in time series
-This should be used when break in a series of data occurring when there is a significant change in the definitions or conditions of data collection, meaning that data before the break cannot be directly compared with data after the break. 
+This should be used when there is a break in a series of data occurring when there is a significant change in the definitions or conditions of data collection, meaning that data before the break cannot be directly compared with data after the break. 
 There are many reasons this can occur, including changes in survey scope, changes in sampling methods, changes to questions, changes in mode of data collection, and changes in weighting.
 
 ### c = confidential
-Where presentation of data would disclose confidential information, for example being able to identify details about a single respondent, this data must be suppressed and given this marker to maintain confidentiality clauses. 
-In the previous standard there was a separate category for suppression. Discussion with ONS Statistical Disclosure Control Unit confirmed that reasons for suppression would either be for confidentiality purposes or low reliability, and these are now separately identified in this list of symbols.
+This should be used where presentation of data would disclose confidential information. For example being able to identify details about a single respondent. This data must be suppressed and given this marker to maintain confidentiality clauses. 
+In the previous standard there was a separate category for suppression. Discussion with Office for National Statistics' Statistical Disclosure Control Unit confirmed that reasons for suppression would either be for confidentiality purposes or low reliability, and these are now separately identified in this list of symbols.
 
 ### er = earliest revision
-A period for which the earliest revision was made in a particular time series. No other periods are then marked with a revision. No revisions have been made to earlier periods. An example from Public Sector Employment is the reclassification of public bodies. When  colleges were reclassified from the private to the public sector, this increased the series by about 230k from 1993 onwards. A marker was placed next to the 1993 estimate to indicate that this was the point where revisions began. This symbol is only to be used if there is an accompanying Revision Table for users’ reference so revisions over the period can be identified. Not to be confused with ‘revision’ below.
+This should be used to signify a period for which the earliest revision was made in a particular time series. No other periods should be marked with a revision. 
+
+An example from Public Sector Employment is the reclassification of public bodies. When colleges were reclassified from the private to the public sector, this increased the series by about 230,000 from 1993 onwards. A marker was placed next to the 1993 estimate to indicate that this was the point where revisions began. 
+
+This symbol is only to be used if there is an accompanying Revision Table for users’ reference so revisions over the period can be identified. Not to be confused with ‘revision’ below.
 
 ### e = estimated
-The particular value yielded by an estimator in a given set of circumstances. Tables which are entirely estimates do not require a symbol for each entry provided titles make it clear to users that all figures are estimates.
+This should be used to signify a value yielded by an estimator in a given set of circumstances. Tables which are entirely estimates do not require a symbol for each entry provided titles or accompanying information make it clear to users that all figures are estimates.
 
 ### f = forecast
-The statistical value is forecasted. It is not an observed value; it is a calculated future value. 
+This should be used when the statistical value is forecasted. When it is not an observed value, it is a calculated future value. 
 
-### low = less than half the final digit shown and different from  a real zero 
-For figures that round to zero, so appear as zero in a rounded table, but are not actually zero. For example, international migration statistics published by ONS report to the nearest thousand, so 499 or less would be displayed with the figure '0' and the word '[low]'. Note that '0' should only be used without a symbol when a figure is a true zero.
+### low = less than half the final digit shown and different from a real zero 
+This should be used with figures that round to zero, so appear as zero in a rounded table, but are not actually zero. For example, international migration statistics published by ONS report to the nearest thousand, so 499 or less should be replaced with the word '[low]'. 
+
+Note that '0' should only be used on its own when a figure is a true zero.
 
 ### u = low reliability
-This indicates observations or values for which the user should be aware of the low quality, for example where values of statistical significance have been calculated. The use of the 'u' depends on the context, therefore additional information, e.g. explanations about the applicable reliability limits, should be provided in the notes.
+This indicates observations or values for which the user should be aware of low quality. For example where values of statistical significance have been calculated. The use of the 'u' depends on the context, therefore additional information, for example, explanations about the applicable reliability limits, should be provided in the notes.
 
 ### z = not applicable
 The 'z' symbol is only to be used when an observation is not applicable (e.g. in tables of employment where people under 16 cannot legally be employed).
 
 ### x = not available 
-For use when data is unavailable for reasons other than those described in this list, for instance, data not collected in a region. 
+For use when data is unavailable for reasons other than those described in this list, for example, data not collected in a region. 
 
-### n = not significant
-The figure is not statistically significant. This category  is an example of where the Eurostat standard differs with common practices used for UK statistics. For the majority of UK statistics it's more useful to know the level of significance, which is why we also have shorthand for levels of statistical significance. To provide clarity for users, and for ease of use for providers, supporting notes can make it clear that if statistically significant shorthand is used then anything without these markings is not significant. Data providers are still able to use 'n' should they wish to highlight statistics that are not significant.
+### ns = not significant
+This is to be used when a figure is not statistically significant. For the majority of UK statistics it's more useful to know the level of significance, which is why we also have shorthand for levels of statistical significance. 
+
+To provide clarity for users, and for ease of use for providers, supporting notes can make it clear that if statistically significant shorthand is used then anything without these markings is not significant. 
+
+Data providers are still able to use 'ns' should they wish to highlight statistics that are not significant.
 
 ### p = provisional
 For use when the data are yet to be finalised, or are expected (or almost certainly expected) to be revised. For example, the Annual Survey of Hours and Earnings always publish provisional figures followed by a revised final set of figures, so a time series would include the latest provisional figures alongside former final figures.
 
 ### r = revised
-The figure stated has been revised since it was first published. Not to be confused with ‘earliest revision’. 
+To be used when the figure stated has been revised since it was first published. Not to be confused with 'earliest revision'. 
 
 ### Statistically significant
 A statistically significant result is one that we are confident is not simply the result of random chance. The fact that a result is statistically significant does not mean that it is necessarily of practical importance. For example, if sample sizes are large, small differences can be statistically significant. Only by considering context can we determine whether a difference is important enough to require action.
 
 #### s = significant at 0.05 level
-When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase "statistically significant at the 0.05 (or 5%) level" indicates that, if chance alone was operating, a result like this would occur less than 5 times in 100, or less than 5% of the time.
+When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.05 (or 5%) level' indicates that, if chance alone was operating, a result like this would occur less than 5 times in 100, or less than 5% of the time.
 
 #### ss  = significant at 0.01 level
-When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase "statistically significant at the 0.01 (or 1%) level" indicates that, if chance alone was operating, a result like this would occur less than 1 times in 100, or less than 1% of the time.
+When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.01 (or 1%) level' indicates that, if chance alone was operating, a result like this would occur less than 1 times in 100, or less than 1% of the time.
 
 #### sss = significant at 0.001 level
-When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase "statistically significant at the 0.001 (or 0.1%) level" indicates that, if chance alone was operating, a result like this would occur less than 0.1 times in 100, or less than 0.1% of the time.
+When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.001 (or 0.1%) level' indicates that, if chance alone was operating, a result like this would occur less than 0.1 times in 100, or less than 0.1% of the time.
 
 ## Where to put shorthand
 Ideally shorthand markers should be used after titles, in column headings, row labels or within empty cells.  
 
-There may be situations where you need to put them in cells with data. We advise against doing this as it can disrupt usability and machine readability. For example if you want to sum a column but one of the data points has a shorthand marker next to it, this data point will get ignored.  
+There may be situations where you need to put them in cells with data. We advise against doing this as it can disrupt usability and machine readability. For example, if you want to sum a column but one of the data points has a shorthand marker next to it, this data point will get ignored.  
 
-If a specifc data cell needs a piece of information attached to it, we advise you to add a notes column to your table on the right and put shorthand or note markers in here, specifying which cells the shorthand or note is attached to. More information on this can be found in our [Releasing statistics in spreadsheets](https://github.com/best-practice-and-impact/spreadsheet-accessibility/blob/main/interim-draft.md) guidance. 
+If a specifc data cell needs a piece of information attached to it, we advise you to add a notes column to your table on the right and put shorthand or note markers in here, specifying which cells the shorthand or note refers to. More information on this can be found in our [Releasing statistics in spreadsheets](https://github.com/best-practice-and-impact/spreadsheet-accessibility/blob/main/interim-draft.md) guidance. 
 
 
 ## Benefits of harmonising shorthand
 ### Increased understanding 
-If harmonised shorthand is used then no matter what data users’ access, the symbols and their meanings will be consistent and familiar.
+If shorthand is used consistently then no matter what data users’ access, the symbols and their meanings will be consistent and familiar.
 ### Ease of use and comparability 
 For data users who require multiple datasets, having multiple types of shorthand with multiple meanings could not only be arduous and time consuming but also increase the possibility of mistakes. Harmonised shorthand will allow comparability between multiple datasets.
 ### Helping towards compliance 
@@ -87,4 +97,4 @@ Use of harmonised shorthand will increase access to data from different sources 
 ### Improving the quality of data 
 Harmonised shorthand can be used to reduce avoidable differences in understanding different outputs which can be caused by use of different shorthand.
 ### Better information management 
-Datasets are now accessible in many different ways, including direct digital access via Application Programming Interfaces (APIs). This enables users to bring together datasets from different sources quickly and easily. As the push for open data increases, and more departments service this demand, it will become increasingly important to standardize statistical content. A single set of harmonised shorthand is a step towards facilitating these new uses of statistics. 
+Datasets are now accessible in many different ways, including direct digital access via Application Programming Interfaces (APIs). This enables users to bring together datasets from different sources quickly and easily. As the push for open data increases, and more departments service this demand, it will become increasingly important to standardise statistical content. A single set of harmonised shorthand is a step towards facilitating these new uses of statistics. 
