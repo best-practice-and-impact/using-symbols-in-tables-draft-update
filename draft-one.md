@@ -11,6 +11,8 @@ When using shorthand it is important it is used consistently across government s
 ## Layout of shorthand
 Whenever words or shorthand are presented in a table they should be in square brackets, for example: [r]. If you need to use more than one shorthand marker in the same cell, each should have its own square brackets, for example: [r][e]. This aids machine readability and makes it easier to spot shorthand.
 
+When shorthand is used you should mention this in a cell in column A above the table so users get this information before they come to the table itself. For example "Some shorthand is used in this table, [e] = estimated, [f] = forecast". 
+
 ## The harmonised shorthand and when to use it
 
 ### b = break in time series
