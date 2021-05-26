@@ -6,7 +6,7 @@ When we refer to shorthand we mean the use of a letter or letters as shorthand f
 
 Whenever possible information should be given at the point of need, for example write out the word 'revised' rather than using 'r'. However, we know this is not always feasible in tables of statistics. 
 
-When using shorthand it is important it is used consistently across government statistical outputs as this can provide many [benefits](#Benefits-of-harmonising-shorthand). 
+When shorthand is used consistently across government statistical outputs it can provide many [benefits](#Benefits-of-harmonising-shorthand). 
 
 ## Layout of shorthand
 Whenever words or shorthand are presented in a table they should be in square brackets, for example: [r]. If you need to use more than one shorthand marker in the same cell, each should have its own square brackets, for example: [r][e]. This aids machine readability and makes it easier to spot shorthand.
