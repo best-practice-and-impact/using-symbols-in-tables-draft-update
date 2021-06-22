@@ -4,18 +4,20 @@ This guidance is an update to the ['Using symbols and shorthand in tables'](http
 
 If you have any questions or feedback, please email [gsshelp@statistics.gov.uk](mailto:gsshelp@statistics.gov.uk).
 ## Introduction
-This documentation provides definitions for harmonised shorthand to be used in: tables, guidance for use, and additional useful information.
+This guidance aims to provide a consistent shorthand to be used in government spreadsheets and other related documentation (such as methodology reports). 
 
-When we refer to shorthand we mean the use of a letter or letters as shorthand for a word or words. The use of symbols such as . : * or † is no longer recommended in tables. This is because these symbols will fail legal accessibility guidelines because they can be difficult to see and screen reader software often won’t recognise them. 
+When we refer to shorthand we mean the use of a letter or letters as shorthand for a word or words. The use of symbols such as . : * or † is no longer recommended in spreadsheets because they can be difficult to see and screen reader software often won’t recognise them. This means they are likely to fail the legal accessibility regulations. 
 
 Whenever possible information should be given at the point of need, for example write out the word 'revised' rather than using 'r'. However, we know this is not always feasible in tables of statistics. 
 
-When shorthand is used consistently across government statistical outputs it can provide many [benefits](#Benefits-of-harmonising-shorthand). 
+Using consistent shorthand across government statistical outputs will provide many [benefits to users](#Benefits-of-harmonising-shorthand). 
 
 ## Layout of shorthand
-Whenever words or shorthand are presented in a table they should be in square brackets, for example: [r]. If you need to use more than one shorthand marker in the same cell, each should have its own square brackets, for example: [r][e]. This aids machine readability and makes it easier to spot shorthand.
+Shorthand markers should be presented in column headings, row labels or by adding on a notes column to a table. They should not be placed in cells with data. For more information please refer to our '[Releasing statistics in spreadsheets](https://github.com/best-practice-and-impact/spreadsheet-accessibility/blob/main/interim-draft.md#Symbols-footnotes-and-codes)' guidance. 
 
-When shorthand is used you should mention this in a cell in column A above the table so users get this information before they come to the table itself. For example "Some shorthand is used in this table, [e] = estimated, [f] = forecast". 
+Whenever a shorthand marker is presented in a table it should be in square brackets, for example: [r]. If you need to use more than one shorthand marker in the same cell, each should have its own square brackets, for example: [r][e]. This aids machine readability and makes it easier to spot shorthand.
+
+Whenever a table contains shorthand markers, you should mention this in a cell in column A above the table so users get this information before they come to the table itself. For example 'Some shorthand is used in this table, [e] = estimated, [f] = forecast'. 
 
 ## The harmonised shorthand and when to use it
 
