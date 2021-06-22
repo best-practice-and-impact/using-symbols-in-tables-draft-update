@@ -1,4 +1,8 @@
 # Using symbols and shorthand in tables 
+## Draft status 
+This guidance is an update to the ['Using symbols and shorthand in tables'](https://gss.civilservice.gov.uk/policy-store/symbols-in-tables-definitions-and-help/) guidance on the [Government Statistical Service (GSS) website](https://gss.civilservice.gov.uk/). It is still under review. We are publishing a draft version to give civil servants early information on what they need to implement and to gather feedback. We continue to carry out research and testing. Once this is complete, the guidance will be updated on the GSS website.
+
+If you have any questions or feedback, please email [gsshelp@statistics.gov.uk](mailto:gsshelp@statistics.gov.uk).
 ## Introduction
 This documentation provides definitions for harmonised shorthand to be used in: tables, guidance for use, and additional useful information.
 
