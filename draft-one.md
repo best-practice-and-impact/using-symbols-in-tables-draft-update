@@ -20,55 +20,59 @@ When shorthand is used you should mention this in a cell in column A above the t
 ## The harmonised shorthand and when to use it
 
 ### b = break in time series
-This should be used when there is a break in a series of data occurring when there is a significant change in the definitions or conditions of data collection, meaning that data before the break cannot be directly compared with data after the break. 
-There are many reasons this can occur, including changes in survey scope, changes in sampling methods, changes to questions, changes in mode of data collection, and changes in weighting.
+Use this shorthand when there is a break in a data series meaning that data before the break cannot be directly compared with data after the break. 
+
+There are many reasons this can occur, including changes to: survey scope, sampling methods, questions, mode of data collection and weighting.
 
 ### c = confidential
-This should be used where presentation of data would disclose confidential information. For example being able to identify details about a single respondent. This data must be suppressed and given this marker to maintain confidentiality clauses. 
-In the previous standard there was a separate category for suppression. Discussion with Office for National Statistics' Statistical Disclosure Control Unit confirmed that reasons for suppression would either be for confidentiality purposes or low reliability, and these are now separately identified in this list of symbols.
+This shorthand should be used when a data point would disclose confidential information (for example being able to identify details about a single respondent). These data points must be replaced with this shorthand to maintain confidentiality clauses.
+
+In previous guidance there was a separate category for suppression. Discussion with the Statistical Disclosure Control Unit at the Office for National Statistics (ONS) confirmed that reasons for suppression would either be for confidentiality purposes or low reliability, and these are now separately identified in this list.
 
 ### er = earliest revision
-This should be used to signify a period for which the earliest revision was made in a particular time series. No other periods should be marked with a revision. 
+This shorthand should be used to signify a period for which the earliest revision was made in a particular time series. No other periods should be marked with a revision. 
 
 An example from Public Sector Employment is the reclassification of public bodies. When colleges were reclassified from the private to the public sector, this increased the series by about 230,000 from 1993 onwards. A marker was placed next to the 1993 estimate to indicate that this was the point where revisions began. 
 
-This symbol is only to be used if there is an accompanying Revision Table for users’ reference so revisions over the period can be identified. Not to be confused with ‘revision’ below.
+This shorthand is only to be used if there is an accompanying revision table for reference so that revisions over the period can be identified. This is not to be confused with 'revision' below.
 
 ### e = estimated
-This should be used to signify a value yielded by an estimator in a given set of circumstances. Tables which are entirely estimates do not require a symbol for each entry provided titles or accompanying information make it clear to users that all figures are estimates.
+This shorthand is to be used to signify when a data point is estimated in a way that is different to the rest of data presented. 
+
+Tables which are entirely estimates do not require a marker for each data point, provided titles or accompanying information make it clear that all figures are estimates.
 
 ### f = forecast
-This should be used when the statistical value is forecasted. When it is not an observed value, it is a calculated future value. 
+This shorthand should be used when a data point is a calculated future value instead of an observed value. 
 
 ### low = less than half the final digit shown and different from a real zero 
-This should be used with figures that round to zero, so appear as zero in a rounded table, but are not actually zero. For example, international migration statistics published by ONS report to the nearest thousand, so 499 or less should be replaced with the word '[low]'. 
+This shorthand should replace data points that appear as zero in a rounded table, but are not actually zero. 
 
-Note that '0' should only be used on its own when a figure is a true zero.
+For example, international migration statistics published by the Office for National Statistics (ONS) report to the nearest thousand, so data points of 499 or less should be replaced with the word '[low]'. 
+
+Note that '0' should only be used when a data point is a true zero.
 
 ### u = low reliability
-This indicates observations or values for which the user should be aware of low quality. For example where values of statistical significance have been calculated. The use of the 'u' depends on the context, therefore additional information, for example, explanations about the applicable reliability limits, should be provided in the notes.
+This shorthand should be used to indicate when data points are of low quality. 
+
+If communicating information about quality you should include (or link to) information explaning how quality information has been calculated and how data points have been classified. 
 
 ### z = not applicable
-The 'z' symbol is only to be used when an observation is not applicable (e.g. in tables of employment where people under 16 cannot legally be employed).
+This shorthand should be used when a data point is not applicable. For example in tables of employment where people under 16 cannot legally be employed.
 
 ### x = not available 
-For use when data is unavailable for reasons other than those described in this list, for example, data not collected in a region. 
-
-### ns = not significant
-This is to be used when a figure is not statistically significant. For the majority of UK statistics it's more useful to know the level of significance, which is why we also have shorthand for levels of statistical significance. 
-
-To provide clarity for users, and for ease of use for providers, supporting notes can make it clear that if statistically significant shorthand is used then anything without these markings is not significant. 
-
-Data providers are still able to use 'ns' should they wish to highlight statistics that are not significant.
+This shorthand should be used when data is unavailable for reasons other than those described in this list, for example, data not collected in a region. 
 
 ### p = provisional
-For use when the data are yet to be finalised, or are expected (or almost certainly expected) to be revised. For example, the Annual Survey of Hours and Earnings always publish provisional figures followed by a revised final set of figures, so a time series would include the latest provisional figures alongside former final figures.
+This shorthand should be used to signify when data points are yet to be finalised, or are expected to be revised. 
 
 ### r = revised
-To be used when the figure stated has been revised since it was first published. Not to be confused with 'earliest revision'. 
+This shorthand should be used when the data point presented has been revised since it was first published. Not to be confused with 'earliest revision'. 
 
 ### Statistically significant
 A statistically significant result is one that we are confident is not simply the result of random chance. The fact that a result is statistically significant does not mean that it is necessarily of practical importance. For example, if sample sizes are large, small differences can be statistically significant. Only by considering context can we determine whether a difference is important enough to require action.
+
+#### ns = not significant
+This shorthand can be used to signify data points that are not statistically significant. For the majority of UK statistics it is more useful to know the level of significance, which is why we also have shorthand for levels of statistical significance. 
 
 #### s = significant at 0.05 level
 When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.05 (or 5%) level' indicates that, if chance alone was operating, a result like this would occur less than 5 times in 100, or less than 5% of the time.
