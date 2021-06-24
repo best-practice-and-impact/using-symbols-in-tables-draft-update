@@ -76,10 +76,14 @@ This shorthand should be used to indicate when data points are yet to be finalis
 This shorthand should be used to indicate when the data point presented has been revised since it was first published. Not to be confused with 'earliest revision'. 
 
 ### Statistically significant
-A statistically significant result is one that we are confident is not simply the result of random chance. The fact that a result is statistically significant does not mean that it is necessarily of practical importance. For example, if sample sizes are large, small differences can be statistically significant. Only by considering context can we determine whether a difference is important enough to require action.
+A statistically significant result is one that we are confident is not simply the result of random chance. 
+ 
+If talking about statistical sigificance it is best practice to give information on how this is calculated and what it means for the data.
+
+Note that the credibility of [assessing statistics using significance levels is currently under debate](https://www.nature.com/articles/d41586-019-00874-8).
 
 #### ns = not significant
-This shorthand can be used to signify data points that are not statistically significant. For the majority of UK statistics it is more useful to know the level of significance, which is why we also have shorthand for levels of statistical significance. 
+This shorthand can be used to indicate data points that are not statistically significant. It may be more useful to know the level of significance, which is why we also have shorthand for different significance levels.
 
 #### s = significant at 0.05 level
 When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.05 (or 5%) level' indicates that, if chance alone was operating, a result like this would occur less than 5 times in 100, or less than 5% of the time.
