@@ -83,16 +83,19 @@ If talking about statistical sigificance it is best practice to give information
 Note that the credibility of [assessing statistics using significance levels is currently under debate](https://www.nature.com/articles/d41586-019-00874-8).
 
 #### ns = not significant
-This shorthand can be used to indicate data points that are not statistically significant. It may be more useful to know the level of significance, which is why we also have shorthand for different significance levels.
+This shorthand can be used to indicate data points that are not statistically significant. 
+
+When talking about different levels of significance, it has been common to use an asterisk. However, as mentioned, symbols like an asterisks may be difficult to see for people with low vision and may be ignored by screen readers. We now advise to use the letter s in the following way:  
 
 #### s = significant at 0.05 level
-When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.05 (or 5%) level' indicates that, if chance alone was operating, a result like this would occur less than 5 times in 100, or less than 5% of the time.
 
 #### ss  = significant at 0.01 level
-When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.01 (or 1%) level' indicates that, if chance alone was operating, a result like this would occur less than 1 times in 100, or less than 1% of the time.
 
 #### sss = significant at 0.001 level
-When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.001 (or 0.1%) level' indicates that, if chance alone was operating, a result like this would occur less than 0.1 times in 100, or less than 0.1% of the time.
+
+When explaining what these levels mean you may want to say something along these lines: 
+
+When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.05 (or 5%) level' indicates that, if chance alone was operating, a result like this would occur less than 5 times in 100, or less than 5% of the time.
 
 
 ## Benefits of harmonising shorthand
