@@ -85,33 +85,31 @@ Note that the credibility of [assessing statistics using significance levels is 
 #### ns = not significant
 This shorthand can be used to indicate data points that are not statistically significant. 
 
-When talking about different levels of significance, it has been common to use an asterisk. However, as mentioned, symbols like an asterisks may be difficult to see for people with low vision and may be ignored by screen readers. We now advise to use the letter s in the following way:  
+When talking about different levels of significance, it has been common to use an asterisk symbol. However, as mentioned, symbols like an asterisk may be difficult to see for people with low vision and may be ignored by screen readers. We now advise to use the letter s in the following way:  
 
-#### s = significant at 0.05 level
+#### s = significant at 0.05 or 5% level
 
-#### ss  = significant at 0.01 level
+#### ss  = significant at 0.01 or 1% level
 
-#### sss = significant at 0.001 level
+#### sss = significant at 0.001 or 0.1% level
 
 When explaining what these levels mean you may want to say something along these lines: 
 
-When we report on statistical significance, we provide an assessment of how likely it is that we would see results as unusual as these if chance alone was operating. The phrase 'statistically significant at the 0.05 (or 5%) level' indicates that, if chance alone was operating, a result like this would occur less than 5 times in 100, or less than 5% of the time.
+When we report on statistical significance, we are giving the likelihood of seeing this result if chance alone was operating. The phrase 'statistically significant at the 0.05 (or 5%) level' indicates that, if chance alone was operating, a result like this would occur less than 5% of the time.
 
 
-## Benefits of harmonising shorthand
+## Benefits of using consistent shorthand
 ### Increased understanding 
-If shorthand is used consistently then no matter what data users’ access, the symbols and their meanings will be consistent and familiar.
+If shorthand is used consistently the meaning will become familiar to users.
 ### Ease of use and comparability 
-For data users who require multiple datasets, having multiple types of shorthand with multiple meanings could not only be arduous and time consuming but also increase the possibility of mistakes. Harmonised shorthand will allow comparability between multiple datasets.
+For users who require multiple datasets, having multiple types of shorthand with multiple meanings can be time consuming and irritating. It can also increase the possibility of mistakes. Using consistent shorthand will make it easier to compare multiple datasets.
 ### Helping towards compliance 
-If harmonised shorthand is used it aids meeting the requirements of the three pillars of the Code of Practice for Statistics: Trustworthiness, Quality and Value. It also helps towards compliance with the Statistics and Registration Service Act 2007 Provision 9 - Definitions etc. for official statistics, which requires the development and maintenance of definitions, methodologies, classifications and standards for official statistics and promoting their use in relation to official statistics.
+If shorthand is used consistently it aids meeting the requirements of the three pillars of the Code of Practice for Statistics: Trustworthiness, Quality and Value. It also helps towards compliance with the Statistics and Registration Service Act 2007 Provision 9 - Definitions etc. for official statistics. This provision requires the development and maintenance of definitions, methodologies, classifications and standards for official statistics and promoting their use in relation to official statistics.
 ### Knowledge management 
-Use of harmonised shorthand reduces vulnerability to staff turnover by sharing knowledge within the organisation, encouraging dissemination of good practice and improving communication with internal and external users.
+Using consistent shorthand reduces vulnerability to staff turnover and improves communication with internal and external users.
 ### Efficient dissemination 
-Harmonised shorthand will facilitate self-help for users of data on the web, thereby increasing efficiency and reducing burden on staff responsible for answering questions.
-### Comparability for cross survey analysis and integration 
-Use of harmonised shorthand will increase access to data from different sources and make them comparable across time and source. Provision of consistent data markers will enable the comparison of statistical products and create an environment in which multiple data sources can be integrated.
-### Improving the quality of data 
-Harmonised shorthand can be used to reduce avoidable differences in understanding different outputs which can be caused by use of different shorthand.
+Consistent shorthand will help users understand our data more easily. This will increase efficiency and reduce the burden on staff responsible for answering questions.
+### Improve integration 
+Use of consistent shorthand will help with the integration of multiple data sources.
 ### Better information management 
-Datasets are now accessible in many different ways, including direct digital access via Application Programming Interfaces (APIs). This enables users to bring together datasets from different sources quickly and easily. As the push for open data increases, and more departments service this demand, it will become increasingly important to standardise statistical content. A single set of harmonised shorthand is a step towards facilitating these new uses of statistics. 
+Datasets are now accessible in many different ways, including direct digital access via Application Programming Interfaces (APIs). This enables users to bring together datasets from different sources quickly and easily. As the push for open data increases, and more departments service this demand, it will become increasingly important to standardise statistical content. Using consistent shorthand in data published across government is a step towards facilitating these new uses of statistics. 
