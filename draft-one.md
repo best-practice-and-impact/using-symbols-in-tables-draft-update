@@ -6,7 +6,7 @@ If you have any questions or feedback, please email [gsshelp@statistics.gov.uk](
 ## Introduction
 This guidance aims to provide a consistent shorthand to be used in government spreadsheets and other related documentation (such as methodology reports). 
 
-When we refer to shorthand we mean the use of a letter or letters as shorthand for a word or words. The use of symbols such as . : * or † is no longer recommended in spreadsheets because they can be difficult to see and screen reader software often won’t recognise them. This means they are likely to fail the [accessibility legislation](https://www.legislation.gov.uk/uksi/2018/852/contents/made). 
+When we refer to shorthand we mean the use of a letter or letters as shorthand for a word or words. The use of symbols such as . : * or † is no longer recommended in spreadsheets because they can be difficult to see and screen reader software often won’t recognise them. This means they are likely to go against the [accessibility legislation](https://www.legislation.gov.uk/uksi/2018/852/contents/made). 
 
 Whenever possible information should be given at the point of need, for example write out the word 'revised' rather than using 'r'. However, we know this is not always feasible in tables of statistics. 
 
