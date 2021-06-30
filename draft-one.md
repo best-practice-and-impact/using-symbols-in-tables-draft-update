@@ -98,7 +98,7 @@ When explaining what these levels mean you may want to say something along these
 When we report on statistical significance, we are giving the likelihood of seeing this result if chance alone was operating. The phrase 'statistically significant at the 0.05 (or 5%) level' indicates that, if chance alone was operating, a result like this would occur less than 5% of the time.
 
 ### No to NA
-We do not advise using 'NA' to describe cells with no data. While in statistics this often means Not Available, many users will assume it means Not Applicable.
+We do not advise using 'NA' to describe cells with no data. This shorthand is ambiguous, some may read it as Not Applicable, others may read it as Not Available.
 
 ## Benefits of using consistent shorthand
 ### Increased understanding 
