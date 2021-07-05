@@ -10,7 +10,7 @@ When we refer to shorthand we mean the use of a letter or letters as shorthand f
 
 Whenever possible information should be given at the point of need, for example write out the word 'revised' rather than using 'r'. However, we know this is not always feasible in tables and spreadsheet. 
 
-Using consistent shorthand across all public sector tables and spreadsheets will provide many [benefits to users](#Benefits-of-harmonising-shorthand). 
+Using consistent shorthand across all public sector tables and spreadsheets will provide many [benefits to users](#Benefits-of-using-consistent-shorthand). 
 
 ## Layout of shorthand
 Whenever a shorthand marker is presented in a table it should be in square brackets, for example: [r]. If you need to use more than one type of shorthand in the same cell, each should have its own square brackets, for example: [r][e]. This aids machine readability and makes it easier to spot shorthand.
