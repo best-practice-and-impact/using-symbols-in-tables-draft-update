@@ -66,6 +66,9 @@ If communicating information about quality you should include (or link to) infor
 ### z = not applicable
 This shorthand should be used when a data point is not applicable. For example in tables of employment where people under 16 cannot legally be employed.
 
+### w = none recorded in survey
+No people are estimated to be in this category, either because there were not any recorded by the survey or because none exist in the population.
+
 ### x = not available 
 This shorthand should be used when data is unavailable for reasons other than those described in this list, for example, data not collected in a region. 
 
