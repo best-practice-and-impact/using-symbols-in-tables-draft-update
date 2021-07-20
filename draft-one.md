@@ -51,7 +51,7 @@ This shorthand is to be used to indicate when a data point is estimated. Tables 
 ### f = forecast
 This shorthand should be used to indicate when a data point is a calculated future value instead of an observed value. 
 
-### low = less than half the final digit shown and different from a real zero 
+### low = a low figure but not a real zero 
 This shorthand should replace data points that appear as zero in a rounded table, but are not actually zero. 
 
 For example, international migration statistics published by the Office for National Statistics (ONS) report to the nearest thousand, so data points of 499 or less should be replaced with the word '[low]'. 
