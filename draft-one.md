@@ -22,9 +22,9 @@ For example you could present a sentence like this: 'Some shorthand is used in t
 ## Where to put shorthand
 Ideally, shorthand should be presented in titles, column headings or row labels. They may also be placed within empty cells or to replace a data point in a cell. If they need to refer to a specific data point it is best to place them in a notes column added onto the right-hand side of a table. 
 
-They should not be placed in cells with data as it can disrupt usability and machine readability. For example, if you want to sum a column but one of the data points has a shorthand marker next to it, this data point will get ignored. 
+In terms of spreadsheets they should not be placed in cells with data as it can disrupt usability and machine readability. For example, if you want to sum a column but one of the data points has a shorthand marker next to it, this data point will get ignored. 
 
-For more information please refer to our '[Releasing statistics in spreadsheets](https://github.com/best-practice-and-impact/spreadsheet-accessibility/blob/main/interim-draft.md#Symbols-footnotes-and-codes)' guidance.
+For more information on placement of shorthand in spreadsheets please see our '[Releasing statistics in spreadsheets](https://github.com/best-practice-and-impact/spreadsheet-accessibility/blob/main/interim-draft.md#Symbols-footnotes-and-codes)' guidance.
 
 ## The harmonised shorthand and when to use it
 
