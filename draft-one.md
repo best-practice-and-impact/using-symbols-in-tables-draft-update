@@ -58,18 +58,18 @@ For example, international migration statistics published by the Office for Nati
 
 Note that '0' should only be used when a data point is a true zero.
 
+### p = provisional
+This shorthand should be used to indicate when data points are yet to be finalised, or are expected to be revised. 
+
+### r = revised
+This shorthand should be used to indicate when the data point presented has been revised since it was first published. Not to be confused with 'earliest revision'. 
+
 ### u = low reliability
 This shorthand should be used to indicate when data points are of low quality. 
 
 If communicating information about quality you should include (or link to) information explaning how quality information has been calculated and how data points have been classified. 
 
 In previous guidance there was a separate category for suppression. Discussion with the Statistical Disclosure Control Unit at the Office for National Statistics (ONS) confirmed that reasons for suppression would either be for confidentiality purposes or low reliability, and these are now identified separately in this list.
-
-### p = provisional
-This shorthand should be used to indicate when data points are yet to be finalised, or are expected to be revised. 
-
-### r = revised
-This shorthand should be used to indicate when the data point presented has been revised since it was first published. Not to be confused with 'earliest revision'. 
 
 ### w = none recorded in survey
 No people are estimated to be in this category, either because there were not any recorded by the survey or because none exist in the population.
