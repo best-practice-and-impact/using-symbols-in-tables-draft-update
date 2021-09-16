@@ -84,6 +84,9 @@ This shorthand should be used when a data point is not applicable. For example i
 If you wish to be more specific in your shorthand it is OK to use numbers to specify the reasons. 
 For example, if some data is of low reliability because it is calculated from a small number of data points and other data is of low reliability because the population base to choose from was very small you could use [u1] for the former reason and [u2] for the latter.   
 
+### Shorthand for a reason not listed here 
+If you cannot find shorthand listed here for something you need to signify in your tables, you can choose your own letter to use. But please check it is not one already in use on this list. Also, please let the team know as it may be something we need to add onto this list. Email: [GSSHelp@statistics.gov.uk](mailto:gsshelp@statistics.gov.uk).  
+
 ### Statistically significant
 A statistically significant result is one that we are confident is not simply the result of random chance. 
  
