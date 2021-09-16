@@ -38,15 +38,15 @@ This shorthand should be used when a data point would disclose confidential info
 
 In previous guidance there was a separate category for suppression. Discussion with the Statistical Disclosure Control Unit at the Office for National Statistics (ONS) confirmed that reasons for suppression would either be for confidentiality purposes or low reliability, and these are now identified separately in this list.
 
+### e = estimated
+This shorthand is to be used to indicate when a data point is estimated. Tables which are entirely estimates do not require a marker for each data point, provided titles or accompanying information make it clear that all figures are estimates.
+
 ### er = earliest revision
 This shorthand should be used to signify a period for which the earliest revision was made in a particular time series. No other periods should be marked with a revision. 
 
 An example from Public Sector Employment is the reclassification of public bodies. When colleges were reclassified from the private to the public sector, this increased the series by about 230,000 from 1993 onwards. Shorthand was used to indicate that the 1993 estimate was the point where revisions began. 
 
 This shorthand is only to be used if there is an accompanying revision table for reference so that revisions over the period can be identified. This is not to be confused with 'revision'.
-
-### e = estimated
-This shorthand is to be used to indicate when a data point is estimated. Tables which are entirely estimates do not require a marker for each data point, provided titles or accompanying information make it clear that all figures are estimates.
 
 ### f = forecast
 This shorthand should be used to indicate when a data point is a calculated future value instead of an observed value. 
@@ -63,8 +63,13 @@ This shorthand should be used to indicate when data points are of low quality.
 
 If communicating information about quality you should include (or link to) information explaning how quality information has been calculated and how data points have been classified. 
 
-### z = not applicable
-This shorthand should be used when a data point is not applicable. For example in tables of employment where people under 16 cannot legally be employed.
+In previous guidance there was a separate category for suppression. Discussion with the Statistical Disclosure Control Unit at the Office for National Statistics (ONS) confirmed that reasons for suppression would either be for confidentiality purposes or low reliability, and these are now identified separately in this list.
+
+### p = provisional
+This shorthand should be used to indicate when data points are yet to be finalised, or are expected to be revised. 
+
+### r = revised
+This shorthand should be used to indicate when the data point presented has been revised since it was first published. Not to be confused with 'earliest revision'. 
 
 ### w = none recorded in survey
 No people are estimated to be in this category, either because there were not any recorded by the survey or because none exist in the population.
@@ -72,11 +77,12 @@ No people are estimated to be in this category, either because there were not an
 ### x = not available 
 This shorthand should be used when data is unavailable for reasons other than those described in this list, for example, data not collected in a region. 
 
-### p = provisional
-This shorthand should be used to indicate when data points are yet to be finalised, or are expected to be revised. 
+### z = not applicable
+This shorthand should be used when a data point is not applicable. For example in tables of employment where people under 16 cannot legally be employed.
 
-### r = revised
-This shorthand should be used to indicate when the data point presented has been revised since it was first published. Not to be confused with 'earliest revision'. 
+### Being more specific 
+If you wish to be more specific in your shorthand it is OK to use numbers to specify the reasons. 
+For example, if some data is of low reliability because it is calculated from a small number of data points and other data is of low reliability because the population base to choose from was very small you could use [u1] for the former reason and [u2] for the latter.   
 
 ### Statistically significant
 A statistically significant result is one that we are confident is not simply the result of random chance. 
